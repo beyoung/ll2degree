@@ -1,3 +1,0 @@
-# github.com/KingAkeem/go-dms v0.0.0-20180920070212-48c335ab557f
-## explicit
-github.com/KingAkeem/go-dms/dms
